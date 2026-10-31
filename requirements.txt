@@ -1,0 +1,4 @@
+PyQt6>=6.5
+Pillow>=10.0
+# Also required (not a pip package): Tesseract-OCR  ->  https://github.com/UB-Mannheim/tesseract/wiki
+# For building the exe:  pip install pyinstaller
